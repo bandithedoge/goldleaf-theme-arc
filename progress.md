@@ -17,7 +17,7 @@
 
 * /Battery/ - done
 
-* /Common/ -
+* /Common/ - done
   
 * /Connection/ -
   
