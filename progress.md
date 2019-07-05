@@ -16,7 +16,7 @@
 * MenuBanner.png
   * Arc:
   * Arc Darker:
-  * Arc Dark:
+  * Arc Dark: done
 
 * /Battery/
   * Arc:
