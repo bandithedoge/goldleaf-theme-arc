@@ -1,12 +1,12 @@
 * ../goldleaf.ini
-  * arc -
+  * arc - done
   * arc-darker -
   * arc-dark - done
 
 * Base.png - done
   
 * Logo.png
-  * arc -
+  * arc - done
   * arc-darker -
   * arc-dark - done
   
