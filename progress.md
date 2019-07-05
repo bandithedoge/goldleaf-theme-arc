@@ -6,7 +6,7 @@
 * Base.png
   * arc:
   * arc-darker:
-  * arc-dark:
+  * arc-dark: done
   
 * Logo.png
   * arc:
