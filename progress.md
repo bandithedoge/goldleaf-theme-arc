@@ -11,7 +11,7 @@
   * arc-dark - done
   
 * MenuBanner.png
-  * arc -
+  * arc - done
   * arc-darker -
   * arc-dark - done
 
