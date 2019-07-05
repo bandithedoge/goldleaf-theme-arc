@@ -8,7 +8,7 @@
 * Logo.png
   * arc -
   * arc-darker -
-  * arc-dark -
+  * arc-dark - done
   
 * MenuBanner.png
   * arc -
