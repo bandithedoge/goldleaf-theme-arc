@@ -1,39 +1,24 @@
 * ../goldleaf.ini
-  * arc:
-  * arc-darker:
-  * arc-dark: done
+  * arc -
+  * arc-darker -
+  * arc-dark - done
 
-* Base.png
-  * arc:
-  * arc-darker:
-  * arc-dark: done
+* Base.png - done
   
 * Logo.png
-  * arc:
-  * arc-darker:
-  * arc-dark:
+  * arc -
+  * arc-darker -
+  * arc-dark -
   
 * MenuBanner.png
-  * arc:
-  * arc-darker:
-  * arc-dark: done
+  * arc -
+  * arc-darker -
+  * arc-dark - done
 
-* /Battery/
-  * arc:
-  * arc-darker:
-  * arc-dark: done
+* /Battery/ - done
 
-* /Common/
-  * arc:
-  * arc-darker:
-  * arc-dark:
+* /Common/ -
   
-* /Connection/
-  * arc:
-  * arc-darker:
-  * arc-dark:
+* /Connection/ -
   
-* /FileSystem/
-  * arc:
-  * arc-darker:
-  * arc-dark:
+* /FileSystem/ -
