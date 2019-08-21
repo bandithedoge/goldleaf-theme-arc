@@ -15,5 +15,3 @@ This is a port of the [Arc GTK theme](https://github.com/horst3180/arc-theme) an
 ## Installation:
 * Download the latest [release](https://github.com/bandithedoge/goldleaf-theme-arc/releases/latest) (pick one of the two variants)
 * Extract the zip file to your SD card's root
-
-**NOTE: This theme will probably be broken once Goldleaf 0.6 is released. I'll update it when it happens.**
