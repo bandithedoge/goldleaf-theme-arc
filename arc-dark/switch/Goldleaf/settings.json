@@ -6,7 +6,6 @@
         "background": "#303641FF",
         "base": "#404552FF",
         "baseFocus": "#5294E2FF",
-        "text": "#FFFFFFFF",
-        "menuItemSize": 80
+        "text": "#FFFFFFFF"
     }
 }
