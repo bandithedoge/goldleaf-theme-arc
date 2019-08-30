@@ -6,6 +6,8 @@
         "background": "#303641FF",
         "base": "#404552FF",
         "baseFocus": "#5294E2FF",
-        "text": "#FFFFFFFF"
+        "text": "#FFFFFFFF",
+		"progressBar": "#5294E2FF",
+		"scrollBar": "#5294E2FF"
     }
 }
